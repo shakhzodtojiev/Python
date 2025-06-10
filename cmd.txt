@@ -51,19 +51,19 @@ Project links: https://www.djangoproject.com/
 - Django: python3 -m pip install Django
 
 Project links: https://django-jazzmin.readthedocs.io/
-- Django Jazzmin: python3 -m pip3 install -U django-jazzmin
+- Django Jazzmin: python3 -m pip install -U django-jazzmin
 
 Project links: https://github.com/un1t/django-cleanup
-- Django Cleanup: python3 -m pip3 install -U django-cleanup
+- Django Cleanup: python3 -m pip install -U django-cleanup
 
 Project links: https://django-hitcount.readthedocs.io/
-- Django Hitcount: python3 -m pip3 install -U django-hitcount
+- Django Hitcount: python3 -m pip install -U django-hitcount
 
 Project links: https://pillow.readthedocs.io/
-- Pillow: python3 -m pip3 install -U Pillow
+- Pillow: python3 -m pip install -U Pillow
 
 Project links: https://github.com/hvlads/django-ckeditor-5
-- Django CKEditor 5: python3 -m pip3 install -U django-ckeditor-5
+- Django CKEditor 5: python3 -m pip install -U django-ckeditor-5
 
 ==============================
 requirements.txt 
