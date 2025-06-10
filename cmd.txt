@@ -1,0 +1,83 @@
+=============================
+venv
+=============================
+- Create venv command:
+python3 -m venv venv
+
+- Activate venv:
+Linux: source venv/bin/activate
+Mac: source venv/bin/activate
+Win: source venv/Scripts/activate
+
+
+=============================
+Django commands
+=============================
+- Install Django:
+python3 -m pip install Django
+
+- Check Django version:
+python3 -m django --version
+
+- Create Django project:
+django-admin startproject config .
+
+- Create new Django aplication:
+python3 manage.py startapp app_name
+
+- Start server in local host:
+python3 manage.py runserver
+
+- Apply the migrations for apps 
+python3 manage.py migrate
+
+- Open python file using terminal:
+python3 manage.py shell
+
+- Create super user:
+python3 manage.py createsuperuser
+
+- Makemigrations model:
+python3 manage.py makemigrations my_app
+
+- Migrate model:
+python3 manage.py migrate
+
+=============================
+Models
+=============================
+
+Project links: https://www.djangoproject.com/
+- Django: python3 -m pip install Django
+
+Project links: https://django-jazzmin.readthedocs.io/
+- Django Jazzmin: python3 -m pip3 install -U django-jazzmin
+
+Project links: https://github.com/un1t/django-cleanup
+- Django Cleanup: python3 -m pip3 install -U django-cleanup
+
+Project links: https://django-hitcount.readthedocs.io/
+- Django Hitcount: python3 -m pip3 install -U django-hitcount
+
+Project links: https://pillow.readthedocs.io/
+- Pillow: python3 -m pip3 install -U Pillow
+
+Project links: https://github.com/hvlads/django-ckeditor-5
+- Django CKEditor 5: python3 -m pip3 install -U django-ckeditor-5
+
+==============================
+requirements.txt 
+==============================
+- Create requirements.txt automatically:
+pip3 freeze > requirements.txt
+
+- Install all packages using requirements.txt:
+pip3 install -r requirements.txt 
+
+
+=============================
+Author
+=============================
+admin
+admin@gmail.com
+admin@123
